@@ -1,0 +1,13 @@
+C:\Users\aportillo1\Desktop\agenda22\bin\Debug\agenda22.exe.config
+C:\Users\aportillo1\Desktop\agenda22\bin\Debug\agenda22.exe
+C:\Users\aportillo1\Desktop\agenda22\bin\Debug\agenda22.pdb
+C:\Users\aportillo1\Desktop\agenda22\bin\Debug\agenda22.xml
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.vbproj.AssemblyReference.cache
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.Form1.resources
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.Resources.resources
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.vbproj.GenerateResource.cache
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.vbproj.CoreCompileInputs.cache
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.exe
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.xml
+C:\Users\aportillo1\Desktop\agenda22\obj\Debug\agenda22.pdb
